@@ -8,7 +8,7 @@
         <meta name="author" content="Bethany Sibala">
         <meta name="keywords" content="Freelancer, Frontend Developer, Websites">
 
-        <title>Bethany Joyce M. Sibala - Front-end Developer</title>
+        <title>Bethany Joyce M. Sibala - Frontend Developer</title>
         <link rel="icon" href="images/beth_logo.png">
 
         <!-- CSS FILES -->
@@ -38,12 +38,16 @@
 
         <nav class="navbar navbar-expand-lg">
             <div class="container">
-
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <a href="index.html" class="navbar-brand mx-auto mx-lg-0">Bethany Sibala</a>
+
+                <div class="col-lg-4 col-4 featured-border-bottom">
+                    <a href="index.php" class="navbar-brand mx-auto mx-lg-0">Bethany Sibala</a>
+                    <p class="featured-text"><small>Frontend Developer</small></p>
+                </div>
+                
 
                 <div class="d-flex align-items-center d-lg-none">
                     <i class="navbar-icon bi-telephone-plus me-3"></i>
