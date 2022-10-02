@@ -97,7 +97,7 @@
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
                                     <img src="images/beth.jpg" class="avatar-image avatar-image-large img-fluid" alt="">
 
-                                    <h1 class="hero-title ms-3 mb-0">Hello friend!</h1>
+                                    <h1 class="hero-title ms-3 mb-0">Hello there!</h1>
                                 </div>
 
                                 <h2 class="mb-4">I’m available for freelance work.</h2>
@@ -464,13 +464,13 @@
                                     <strong class="site-footer-title d-block mt-4 mb-3">Stay connected</strong>
 
                                     <ul class="social-icon">
-                                        <li class="social-icon-item"><a href="https://twitter.com/minthu" class="social-icon-link bi-twitter"></a></li>
+                                        <li class="social-icon-item"><a href="https://twitter.com/beytsibs" class="social-icon-link bi-twitter"></a></li>
 
-                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-instagram"></a></li>
+                                        <li class="social-icon-item"><a href="https://www.instagram.com/bethanysibs/" class="social-icon-link bi-instagram"></a></li>
 
-                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-pinterest"></a></li>
+                                        <li class="social-icon-item"><a href="https://github.com/bethanysibs" class="social-icon-link bi-github"></a></li>
 
-                                        <li class="social-icon-item"><a href="https://www.youtube.com/templatemo" class="social-icon-link bi-youtube"></a></li>
+                                        <li class="social-icon-item"><a href="https://www.facebook.com/bethanysibs" class="social-icon-link bi-facebook"></a></li>
                                     </ul>
 
                                     <strong class="site-footer-title d-block mt-4 mb-3">Start a project</strong>
@@ -598,9 +598,8 @@
                     <div class="col-lg-12 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text">Copyright © 2036 <a href="#">First Portfolio</a> Company. All rights reserved.</span>
-                                Design: 
-                                <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>
+                                <span class="copyright-text">Copyright © 2022 <a href="#">Bethany Joyce</a> Sibala. All rights reserved.</span>
+                            
                             </p>
                         </div>
                     </div>
