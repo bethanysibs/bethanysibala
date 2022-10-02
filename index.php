@@ -4,8 +4,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <meta name="description" content="">
-        <meta name="author" content="TemplateMo">
+        <meta name="description" content="Bethany Sibala - Freelance Frontend Developer">
+        <meta name="author" content="Bethany Sibala">
+        <meta name="keywords" content="Freelancer, Frontend Developer, Websites">
 
         <title>Bethany Joyce M. Sibala - Front-end Developer</title>
         <link rel="icon" href="images/beth_logo.png">
@@ -368,8 +369,8 @@
                                     <h3 class="projects-title">Coco Cubano Beach Resort</h3>
                                 </div>
 
-                                <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/cubano.png" class="popup-image">
+                                    <img src="images/projects/cubano.png" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -382,8 +383,8 @@
                                     <h3 class="projects-title">Hotel Booking Website and System</h3>
                                 </div>
 
-                                <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/hotel.png" class="popup-image">
+                                    <img src="images/projects/hotel.png" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -396,8 +397,8 @@
                                     <h3 class="projects-title">Coco Spa Website</h3>
                                 </div>
 
-                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/cocospa.png" class="popup-image">
+                                    <img src="images/projects/cocospa.png" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -409,8 +410,8 @@
                                     <h3 class="projects-title">Coco Stay Website</h3>
                                 </div>
 
-                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/cocostay.png" class="popup-image">
+                                    <img src="images/projects/cocostay.png" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -422,8 +423,8 @@
                                     <h3 class="projects-title">Energeniq Website</h3>
                                 </div>
 
-                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/ene.png" class="popup-image">
+                                    <img src="images/projects/ene.png" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
