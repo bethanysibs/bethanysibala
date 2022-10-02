@@ -135,9 +135,9 @@
 
                                 <h3 class="pt-2 mb-3">a little bit about Bethany</h3>
 
-                                <p>This one-page HTML portfolio is provided by <a href="https://templatemo.com" target="_blank">TemplateMo</a>. This layout is based on Bootstrap v5.1.3 CSS and JS libraries. Image credits go to <a href="https://unsplash.com" target="_blank">Unsplash</a> and <a href="https://freepik.com" target="_blank">FreePik</a> for images used in this page.</p>
+                                <p>Pellentesque in ipsum id orci porta dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.</p>
 
-                                <p>You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please <a href="https://templatemo.com/contact" target="_blank">contact us</a> for more info.</p>
+                                <p>Pellentesque in ipsum id orci porta dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.</p>
                             </div>
                         </div>
 
@@ -197,7 +197,7 @@
                                     <div class="col-lg-6 col-6 pt-4">
                                         <strong class="featured-numbers">000</strong>
 
-                                        <p class="featured-text">Project Finishedaaa</p>
+                                        <p class="featured-text">Project Finished</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
