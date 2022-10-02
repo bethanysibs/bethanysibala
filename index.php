@@ -1,33 +1,4 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <meta name="description" content="Bethany Sibala - Freelance Frontend Developer">
-        <meta name="author" content="Bethany Sibala">
-        <meta name="keywords" content="Freelancer, Frontend Developer, Websites">
-
-        <title>Bethany Joyce M. Sibala - Frontend Developer</title>
-        <link rel="icon" href="images/beth_logo.png">
-
-        <!-- CSS FILES -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        
-        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
-
-        <link href="css/bootstrap.min.css" rel="stylesheet">
-
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
-
-        <link href="css/magnific-popup.css" rel="stylesheet">
-
-        <link href="css/templatemo-first-portfolio-style.css" rel="stylesheet">
-        
-    </head>
-    
+<?php include 'header.php';?>
     <body>
 
         <section class="preloader">
@@ -370,7 +341,7 @@
                                 <div class="projects-info">
                                     <small class="projects-tag">Website and Branding</small>
 
-                                    <h3 class="projects-title">Coco Cubano Beach Resort</h3>
+                                    <h3 class="projects-title"><a href="https://cococubanobeachresort.com" target="_blank">Coco Cubano Beach Resort </a></h3>
                                 </div>
 
                                 <a href="images/projects/cubano.PNG" class="popup-image">
@@ -384,7 +355,7 @@
                                 <div class="projects-info">
                                     <small class="projects-tag">Website</small>
 
-                                    <h3 class="projects-title">Hotel Booking Website and System</h3>
+                                    <h3 class="projects-title"><a href="https://test.cococubanobeachresort.com" target="_blank">Hotel Booking Website and System</a></h3>
                                 </div>
 
                                 <a href="images/projects/hotel.PNG" class="popup-image">
@@ -398,7 +369,7 @@
                                 <div class="projects-info">
                                     <small class="projects-tag">Website</small>
 
-                                    <h3 class="projects-title">Coco Spa Website</h3>
+                                    <h3 class="projects-title"><a href="https://cocospa.cococubanobeachresort.com" target="_blank">Coco Spa Website</a></h3>
                                 </div>
 
                                 <a href="images/projects/cocospa.PNG" class="popup-image">
@@ -411,7 +382,7 @@
                                 <div class="projects-info">
                                     <small class="projects-tag">Website</small>
 
-                                    <h3 class="projects-title">Coco Stay Website</h3>
+                                    <h3 class="projects-title"><a href="https://cocostay.cococubanobeachresort.com" target="_blank">Coco Stay Website</a></h3>
                                 </div>
 
                                 <a href="images/projects/cocostay.PNG" class="popup-image">
@@ -424,7 +395,7 @@
                                 <div class="projects-info">
                                     <small class="projects-tag">Website</small>
 
-                                    <h3 class="projects-title">Energeniq Website</h3>
+                                    <h3 class="projects-title"><a href="https://energeniq.co" target="_blank">Energeniq Website</a></h3>
                                 </div>
 
                                 <a href="images/projects/ene.PNG" class="popup-image">
