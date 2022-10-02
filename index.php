@@ -197,7 +197,7 @@
                                     <div class="col-lg-6 col-6 pt-4">
                                         <strong class="featured-numbers">000</strong>
 
-                                        <p class="featured-text">Project Finished</p>
+                                        <p class="featured-text">Project Finishedaaa</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
