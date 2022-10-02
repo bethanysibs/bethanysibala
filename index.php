@@ -369,8 +369,8 @@
                                     <h3 class="projects-title">Coco Cubano Beach Resort</h3>
                                 </div>
 
-                                <a href="images/projects/cubano.png" class="popup-image">
-                                    <img src="images/projects/cubano.png" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/cubano.PNG" class="popup-image">
+                                    <img src="images/projects/cubano.PNG" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -383,8 +383,8 @@
                                     <h3 class="projects-title">Hotel Booking Website and System</h3>
                                 </div>
 
-                                <a href="images/projects/hotel.png" class="popup-image">
-                                    <img src="images/projects/hotel.png" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/hotel.PNG" class="popup-image">
+                                    <img src="images/projects/hotel.PNG" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -397,8 +397,8 @@
                                     <h3 class="projects-title">Coco Spa Website</h3>
                                 </div>
 
-                                <a href="images/projects/cocospa.png" class="popup-image">
-                                    <img src="images/projects/cocospa.png" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/cocospa.PNG" class="popup-image">
+                                    <img src="images/projects/cocospa.PNG" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -410,8 +410,8 @@
                                     <h3 class="projects-title">Coco Stay Website</h3>
                                 </div>
 
-                                <a href="images/projects/cocostay.png" class="popup-image">
-                                    <img src="images/projects/cocostay.png" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/cocostay.PNG" class="popup-image">
+                                    <img src="images/projects/cocostay.PNG" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -423,8 +423,8 @@
                                     <h3 class="projects-title">Energeniq Website</h3>
                                 </div>
 
-                                <a href="images/projects/ene.png" class="popup-image">
-                                    <img src="images/projects/ene.png" class="projects-image img-fluid" alt="">
+                                <a href="images/projects/ene.PNG" class="popup-image">
+                                    <img src="images/projects/ene.PNG" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
